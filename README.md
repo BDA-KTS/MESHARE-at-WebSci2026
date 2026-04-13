@@ -24,7 +24,7 @@ Full day event
 
 | Duration | Activity                    | Description                                                                 |
 |----------|-----------------------------|-----------------------------------------------------------------------------|
-| 45 min   | Introduction                | Introduction to Methods Hub, quality guidelines, templates, and interactive execution environments |
+| 45 min   | Introduction                | Introduction to 1. Methods Hub, 2. Developer resources, and 3. Execution environments |
 | 30 min   | Example method showcase     | Demo of a selected published method on Methods Hub                          |
 | 15 min   | Method brainstorming        | Participants pitch ideas for methods to work on (organizers too for participants without their own) |
 | 30 min   | Coffee break               | —                                                                           |
@@ -44,13 +44,6 @@ Full day event
 ## Social Science Use Cases
 
 A social scientist interested in developing reproducible computational methods to help reproduce the research findings and reuse the method for future enhancements.
-
-## Resources
-- Methods Hub overview
-- Methods Hub checklist, guidelines, and templates
-- Method ideas
-- 
-
 
 ## Outcome
 
