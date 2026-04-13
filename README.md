@@ -1,4 +1,4 @@
-# MESHARE at WebSci2026
+# [MESHARE](https://methodshub.gesis.org/community/websci26-meshare/) at [WebSci2026](https://websci26.org/?page_id=705)
 
 Computational methods are central to modern research across disciplines, spanning all stages of the research pipeline from data collection and preprocessing to enrichment, analysis, and visualization. When these methods are reproducible, they not only enable verification of research findings but also provide a foundation for extension and refinement, allowing researchers to improve results and make more effective use of available resources.
 
@@ -17,9 +17,10 @@ Computational methods are central to modern research across disciplines, spannin
 ## Setting up the computational environment
 
 ## Duration
-Full day
 
-**Morning session**
+Full day event
+
+*Morning session*
 
 | Duration | Activity                    | Description                                                                 |
 |----------|-----------------------------|-----------------------------------------------------------------------------|
@@ -30,7 +31,7 @@ Full day
 | 10 min   | Method selection            | Choose your own method, start a new one, or choose from the organizer's list of methods as a GitHub repository.   |
 | 50 min   | Method development I        | Method development using the Methods Hub guidelines and resources.        |
 
-**Afternoon session**
+*Afternoon session*
 
 | Duration | Activity                    | Description                                                                 |
 |----------|-----------------------------|-----------------------------------------------------------------------------|
@@ -44,6 +45,13 @@ Full day
 
 A social scientist interested in developing reproducible computational methods to help reproduce the research findings and reuse the method for future enhancements.
 
+## Resources
+- Methods Hub overview
+- Methods Hub checklist, guidelines, and templates
+- Method ideas
+- 
+
+
 ## Outcome
 
 - Theoretical and practical knowledge of computational reproducibility standards.
@@ -53,7 +61,20 @@ A social scientist interested in developing reproducible computational methods t
 - In the longer run, the skills acquired contribute to open science, transparency, collaborative research, and building
 on existing reusable modules.
 
+## Useful Links
+
+- [Methods Hub](https://methodshub.gesis.org/)
+- [Methods Hub Developer resources](https://github.com/GESIS-Methods-Hub/guidelines)
+- [Methods Hub published methods and tutorials list](https://methodshub.gesis.org/search/?source=%7B%22query%22%3A%7B%22bool%22%3A%7B%22must%22%3A%7B%22match_all%22%3A%7B%7D%7D%2C%22filter%22%3A%5B%7B%22term%22%3A%7B%22type%22%3A%22all_methodshub%22%7D%7D%5D%7D%7D%7D&lang=en)
+- [Methods Hub automated method review](https://github.com/BDA-KTS/check_workflow_central_repo)
+- [Methods Hub community outreach](https://methodshub.gesis.org/community/)
+- [Methods Hub taxonomy](https://methodshub.gesis.org/submit/taxonomy/)
+- [MyBinder execution](https://mybinder.org/)
+
 ## Conclusion
+
+## Contact Us
+Methods Hub Team <methodshub@gesis.org>
 
 ## References
 
