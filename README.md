@@ -1,6 +1,6 @@
-# [MESHARE](https://methodshub.gesis.org/community/websci26-meshare/) at [WebSci2026](https://websci26.org/?page_id=705)
+# [MEthods SHAring REtreat (MESHARE)](https://methodshub.gesis.org/community/websci26-meshare/) at [WebSci2026](https://websci26.org/?page_id=705)
 
-Computational methods are central to modern research across disciplines, spanning all stages of the research pipeline from data collection and preprocessing to enrichment, analysis, and visualization. When these methods are reproducible, they not only enable verification of research findings but also provide a foundation for extension and refinement, allowing researchers to improve results and make more effective use of available resources.
+Computational methods are central to modern research across disciplines, spanning all stages of the research pipeline from data collection and preprocessing to enrichment, analysis, and visualization. When these methods are reproducible, they not only enable verification of research findings but also provide a foundation for extension and refinement, allowing researchers to improve results and make more effective use of available resources. In MESHARE, the participants will use Methods Hub and its integrated services to develop and review computationally reproducible methods for processing web data.
 
 ## Learning Objectives
 
@@ -18,7 +18,7 @@ Computational methods are central to modern research across disciplines, spannin
 
 ## Duration
 
-Full day event
+MESHARE is a full-day event.
 
 *Morning session*
 
@@ -27,9 +27,9 @@ Full day event
 | 45 min   | Introduction                | Introduction to 1. Methods Hub, 2. Developer resources, and 3. Execution environments |
 | 30 min   | Example method showcase     | Demo of a selected published method on Methods Hub                          |
 | 15 min   | Method brainstorming        | Participants pitch ideas for methods to work on (organizers too for participants without their own) |
-| 30 min   | Coffee break               | —                                                                           |
+| 30 min   | Coffee break                | —                                                                           |
 | 10 min   | Method selection            | Choose your own method, start a new one, or choose from the organizer's list of methods as a GitHub repository.   |
-| 50 min   | Method development I        | Method development using the Methods Hub guidelines and resources.        |
+| 50 min   | Method development I        | Method development using the Methods Hub guidelines and resources.          |
 
 *Afternoon session*
 
@@ -37,13 +37,19 @@ Full day event
 |----------|-----------------------------|-----------------------------------------------------------------------------|
 | 15 min   | Experience exchange         | Participants discuss the insights gained and challenges faced.              |
 | 75 min   | Method development II       | Method development using the Methods Hub guidelines and resources.          |
-| 30 min   | Coffee break               | —                                                                            |
+| 30 min   | Coffee break                | —                                                                           |
 | 15 min   | Method review               | Generating automated method review, cross-reviewing each other's methods    |
 | 45 min   | Method presentation         | Collective reflection and concluding discussion                             |
 
 ## Social Science Use Cases
 
 A social scientist interested in developing reproducible computational methods to help reproduce the research findings and reuse the method for future enhancements.
+
+## Activity / Information
+
+- Participants can work individually or in pairs.
+- Participants should share their method GitHub repository in reply to the [issue](https://github.com/BDA-KTS/MESHARE-at-WebSci2026/issues/1).
+- *On exiting the interactive environment execution container, the code and data are also deleted.*
 
 ## Outcome
 
