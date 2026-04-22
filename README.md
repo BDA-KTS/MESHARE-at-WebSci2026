@@ -49,8 +49,32 @@ A social scientist interested in developing reproducible computational methods t
 
 - Participants can work individually or in pairs.
 - Participants should share their method GitHub repository in reply to the [issue](https://github.com/BDA-KTS/MESHARE-at-WebSci2026/issues/1).
-- *On exiting the interactive environment execution container, the code and data are also deleted.*
+- *Info: On exiting the interactive environment execution container, the code and data are also deleted.*
 
+## Task 1
+
+1. Install cookiecutter and deploy the method structure on your local machine by following the "How to Use" step in [https://github.com/BDA-KTS/MethodsHub-method-template/blob/main/README.md](https://github.com/BDA-KTS/MethodsHub-method-template/blob/main/README.md).
+2. Bring existing code to the method directory, if any 
+3. Push your method directory to GitHub
+4. Add input data file(s) to the *Data* subdirectory
+5. Open your method on mybinder by providing the GitHub repository link to [https://mybinder.org/](https://mybinder.org/).
+
+## Task 2
+- Install the required packages
+- Modify and extend your method code in the interactive environment (using scripts or notebooks)
+- Modify README
+
+## Task 3
+- Check CITATION.CFF if any changes are required (*it has already preloaded values from the project*)
+- Check if the output data is correctly written to the *Data* subdirectory
+- Preserve the virtual enviornment
+
+## Task 4
+- Download the working updated method
+- Upload to your GitHub method repository
+- Execute the method workflow using (...)
+- Review your method auto-generated compliance report
+  
 ## Outcome
 
 - Theoretical and practical knowledge of computational reproducibility standards.
