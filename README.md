@@ -22,23 +22,29 @@ MESHARE is a full-day event.
 
 *Morning session*
 
-| Duration | Activity                    | Description                                                                 |
-|----------|-----------------------------|-----------------------------------------------------------------------------|
-| 45 min   | Introduction                | Introduction to 1. Methods Hub, 2. Developer resources, and 3. Execution environments |
-| 30 min   | Example method showcase     | Demo of a selected published method on Methods Hub                          |
-| 15 min   | Method brainstorming        | Participants pitch ideas for methods to work on (organizers too for participants without their own) |
-| 30 min   | Coffee break                | —                                                                           |
-| 10 min   | Method selection            | Choose your own method, start a new one, or choose from the organizer's list of methods as a GitHub repository.   |
-| 50 min   | Method development I        | Method development using the Methods Hub guidelines and resources.          |
+| Time slot       | Task                                                              |
+|-----------------|-------------------------------------------------------------------|
+| 09:00 - 09:10   | MESHARE Welcome                                                   | 
+| 09:10 - 09:20   | Introduction to Methods Hub                                       |
+| 09:20 - 09:30   | Methods Hub content, publishing, and interactive execution        |
+| 09:30 - 09:40   | Methods Hub developers resources for methods                      |
+| 09:40 - 09:50   | Sharing/discussing method ideas (encouraging participants' own methods)      |
+| 09:50 - 10:20   | Break / brainstorming                                             |
+| 10:20 - 10:40   | Choosing method, teaming (1 or 2 participants)                    |
+| 10:40 - 11:15   | Downloading, configuring and exploring the method template        |
+| 11:15 - 11:30   | Take aways (extending template method to reproducible own method) |
 
 *Afternoon session*
 
-| Duration | Activity                    | Description                                                                 |
-|----------|-----------------------------|-----------------------------------------------------------------------------|
-| 15 min   | Experience exchange         | Participants discuss the insights gained and challenges faced.              |
-| 75 min   | Method development II       | Method development using the Methods Hub guidelines and resources.          |
-| 30 min   | Coffee break                | —                                                                           |
-| 15 min   | Method review               | Generating automated method review, cross-reviewing each other's methods    |
+| Time slot       | Task                                                               |
+|-----------------|--------------------------------------------------------------------|
+| 13:00 - 13:15   | Recap ( Methods Hub, method developing template)                   | 
+| 13:15 - 14:15   | Method development I                                               |
+| 14:15 - 14:45   | Break                                                              |
+| 14:45 - 15:45   | Method development II                                              | 
+| 15:45 - 16:00   | Automated method review                                            |
+| 16:00 - 16:40   | Updating method based on review feedback                           |
+| 16:40 - 17:30   | Discussion, feedback and conclusion (also further information on publishing method to MH) |
 | 45 min   | Method presentation         | Collective reflection and concluding discussion                             |
 
 ## Social Science Use Cases
