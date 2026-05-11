@@ -45,7 +45,6 @@ MESHARE is a full-day event.
 | 15:45 - 16:00   | Automated method review                                            |
 | 16:00 - 16:40   | Updating method based on review feedback                           |
 | 16:40 - 17:30   | Discussion, feedback and conclusion (also further information on publishing method to MH) |
-| 45 min   | Method presentation         | Collective reflection and concluding discussion                             |
 
 ## Social Science Use Cases
 
